@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @paalaxus
-- 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in becoming a Data Analyst
 - 💞️ I’m looking to collaborate on fun Projects
 - 📫 How to reach me : paalaxus@gmail.com
 
