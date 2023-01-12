@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paalaxus
-- 👀 I’m interested in becoming a Data Analyst
+- 👀 I’m interested in Data Analysis
 - 💞️ I’m looking to collaborate on fun Projects
 - 📫 How to reach me : paalaxus@gmail.com
 
