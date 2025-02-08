@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paalaxus
+- 👋 Hi, I’m Kofi
 - 👀 I’m interested in Data Analysis
 - 💞️ I’m looking to collaborate on fun Projects
 - 📫 How to reach me : paalaxus@gmail.com
